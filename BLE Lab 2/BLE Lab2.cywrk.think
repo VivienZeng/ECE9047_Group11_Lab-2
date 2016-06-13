@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE Lab2\BLE Lab2\TopDesign">
+<ExpandedNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\TopDesign</v>
+<v>BLE Lab2\BLE Lab2\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\TopDesign</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2.cydwr</v>
+<v>BLE Lab2\BLE Lab2\Header Files</v>
+<v>BLE Lab2\BLE Lab2\Source Files</v>
+<v>BLE Lab2\BLE Lab2\Source Files\main.c</v>
+<v>BLE Lab2\BLE Lab2\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE Lab2</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\CortexM0</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_ias.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_1.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyLib.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyPm.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyutils.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\main.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_PM.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Red_LED.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.elf</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.hex</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.map</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2.gpdsc</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2.rpt</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\CortexM0</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\BLE_1_ias.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_1.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\CyLib.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyPm.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\cyutils.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\main.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_PM.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\Listing Files\Red_LED.lst</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.elf</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.hex</v>
+<v>BLE Lab2\BLE Lab2\CortexM0\ARM_GCC_484\Debug\BLE Lab2.map</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2.gpdsc</v>
+<v>BLE Lab2\BLE Lab2\BLE Lab2.rpt</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\PSoC 4 Architecture TRM</v>
+<v>BLE Lab2\BLE Lab2\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE Lab2\BLE Lab2\System Reference Guides</v>
+<v>BLE Lab2\BLE Lab2\System Reference Guides\cy_boot_v4_20</v>
+<v>BLE Lab2\BLE Lab2\BLE_v2_0</v>
+<v>BLE Lab2\BLE Lab2\cy_clock_v2_20</v>
+<v>BLE Lab2\BLE Lab2\cy_pins_v2_10</v>
+<v>BLE Lab2\BLE Lab2\TCPWM_P4_v2_0</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2</v>
+<v>BLE Lab2\BLE Lab2\PSoC 4 Architecture TRM</v>
+<v>BLE Lab2\BLE Lab2\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE Lab2\BLE Lab2\System Reference Guides</v>
+<v>BLE Lab2\BLE Lab2\System Reference Guides\cy_boot_v4_20</v>
+<v>BLE Lab2\BLE Lab2\BLE_v2_0</v>
+<v>BLE Lab2\BLE Lab2\cy_clock_v2_20</v>
+<v>BLE Lab2\BLE Lab2\cy_pins_v2_10</v>
+<v>BLE Lab2\BLE Lab2\TCPWM_P4_v2_0</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\BLE Lab2.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\BLE Lab2.cydsn\BLE Lab2.cydwr" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

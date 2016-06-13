@@ -1,0 +1,25 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2016-06-10T19:44:34Z")
+ (DESIGN "BLE Lab2")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 3.2")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "BLE Lab2")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT ClockBlock.hfclk \\BLE_1\:bless_isr\\.clock (0.000:0.000:0.000))
+    (INTERCONNECT ClockBlock.ff_div_7 \\PWM\:cy_m0s8_tcpwm_1\\.clock (0.000:0.000:0.000))
+    (INTERCONNECT \\PWM\:cy_m0s8_tcpwm_1\\.line_out_compl Red_LED\(0\).pin_input (2.912:2.912:2.912))
+    (INTERCONNECT Red_LED\(0\).pad_out Red_LED\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT \\BLE_1\:cy_m0s8_ble\\.interrupt \\BLE_1\:bless_isr\\.interrupt (1.000:1.000:1.000))
+    (INTERCONNECT Red_LED\(0\).pad_out Red_LED\(0\)_PAD (0.000:0.000:0.000))
+    (INTERCONNECT Red_LED\(0\)_PAD Red_LED\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)
